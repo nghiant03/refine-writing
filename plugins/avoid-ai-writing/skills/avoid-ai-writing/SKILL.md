@@ -9,8 +9,7 @@ metadata:
   repository: https://github.com/conorbronsdon/avoid-ai-writing
   tags: writing editing voice quality
   agentskills_spec: "1.0"
-  openclaw:
-    emoji: "✍️"
+  openclaw_emoji: "✍️"
 ---
 
 # Avoid AI Writing — Audit & Rewrite

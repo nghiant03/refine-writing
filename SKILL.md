@@ -1,5 +1,5 @@
 ---
-name: avoid-ai-writing
+name: refine-writing
 description: Audit and rewrite content to remove AI writing patterns ("AI-isms"). Use this skill when asked to "remove AI-isms," "clean up AI writing," "edit writing for AI patterns," "audit writing for AI tells," or "make this sound less like AI." Supports a detect-only mode, an edit-in-place mode for files, an optional voice profile (casual / professional / technical / warm / blunt), and an iterate-to-convergence pass.
 version: 3.38.0
 license: MIT
@@ -9,8 +9,7 @@ metadata:
   repository: https://github.com/conorbronsdon/avoid-ai-writing
   tags: writing editing voice quality
   agentskills_spec: "1.0"
-  openclaw:
-    emoji: "✍️"
+  openclaw_emoji: "✍️"
 ---
 
 # Avoid AI Writing — Audit & Rewrite
